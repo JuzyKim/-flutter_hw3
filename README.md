@@ -1,4 +1,6 @@
-![Снимок экрана 2024-04-18 012321](https://github.com/JuzyKim/-flutter_hw3/assets/144226513/b1af1f78-909b-487f-88b7-e1f95f5088e5)# This app about character Ghast
+![Снимок экрана 2024-04-18 012321](https://github.com/JuzyKim/-flutter_hw3/assets/144226513/b1af1f78-909b-487f-88b7-e1f95f5088e5)# This app about character Ghast in minecraft
+
+
 Spawning
 To spawn naturally, a ghast requires a solid block below it and a free space 5×5 blocks wide and 4 blocks high. They spawn only in the basalt deltas, nether wastes, and soul sand valley biomes, all three of which exist only in the Nether dimension, and in any light level. In Java Edition ghasts cannot spawn in soul sand valleys if another ghast is within 16 blocks of spherical distance to the intended spawning location; In Bedrock Edition, two ghasts can spawn within any 4 chunk span.
 
